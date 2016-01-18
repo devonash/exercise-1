@@ -113,6 +113,11 @@ html {
   animation: rot-btn 1s infinite;
 }
 
+.btn:active {
+  background-color: #e60099;
+  color: #660044;
+}
+
 .wrapper {
   text-align: center;
 }
