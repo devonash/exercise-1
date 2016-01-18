@@ -39,6 +39,7 @@ html {
   text-align: center;
   text-decoration: none;
   font-size: 60;
+  vertical-align: middle;
 }
 
 .up {
@@ -53,6 +54,7 @@ html {
   text-align: center;
   text-decoration: none;
   font-size: 60;
+  vertical-align: middle;
 }
 
 .btn {
@@ -67,6 +69,9 @@ html {
   color: #99004d;
   font-family: Raleway, Helvetica;
   font-weight: 400;
+  margin-bottom: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
 }
 
 .btn i {
