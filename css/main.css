@@ -12,8 +12,32 @@ html {
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
   font-family: sans-serif;
+  
+  background-color: #b2ff99;
 }
 
 *, *:before, *:after {
 	box-sizing: inherit;
+}
+
+.btn {
+  background-color: #ff66b3;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  padding: .5em 1em;
+  display: inline-block;
+  margin: 0.5em;
+  box-shadow: 1px 1px 0px #888888;
+  text-align: center;
+  color: #99004d;
+}
+
+.btn i {
+  vertical-align: middle;
+  padding-left: 3px;
+}
+
+.wrapper {
+  text-align: center;
 }
