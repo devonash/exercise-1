@@ -22,9 +22,10 @@ html {
 
 .title {
   font-family: Raleway, Helvetica;
-  font-weight: 500;
+  font-weight: 800;
   text-align: center;
   margin-bottom: 50px;
+  color: #009900;
 }
 
 .down {
@@ -32,6 +33,7 @@ html {
   text-align: center;
   text-decoration: none;
   font-size: 60;
+  color: #009900;
 }
 
 .left {
@@ -39,6 +41,7 @@ html {
   text-align: center;
   text-decoration: none;
   font-size: 60;
+  color: #009900;
   vertical-align: middle;
 }
 
@@ -47,6 +50,7 @@ html {
   text-align: center;
   text-decoration: none;
   font-size: 60;
+  color: #009900;
 }
 
 .right {
@@ -54,6 +58,7 @@ html {
   text-align: center;
   text-decoration: none;
   font-size: 60;
+  color: #009900;
   vertical-align: middle;
 }
 
