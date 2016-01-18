@@ -27,6 +27,34 @@ html {
   margin-bottom: 50px;
 }
 
+.down {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 60;
+}
+
+.left {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 60;
+}
+
+.up {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 60;
+}
+
+.right {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 60;
+}
+
 .btn {
   background-color: #ff66b3;
   font-weight: bold;
